@@ -1,5 +1,5 @@
 #About
-Examples of design patterns based on/from **"Patterns in Java, Volume 2. Mark Grand."**
+Examples of design patterns based on/from **"Patterns in Java, Volume 1. Mark Grand."**
 
 ![alt][image]
 
