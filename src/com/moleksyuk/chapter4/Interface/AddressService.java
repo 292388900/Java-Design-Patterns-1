@@ -19,8 +19,8 @@ public class AddressService {
 	public AddressService() {
 		addresses = new HashMap<String, IAddress>();
 		addresses.put("Apple", new Apple());
-		addresses.put("IBM", new Apple());
-		addresses.put("Microsoft", new Apple());
+		addresses.put("IBM", new IBM());
+		addresses.put("Microsoft", new Microsoft());
 	}
 
 	public String getAddress(String company) {
